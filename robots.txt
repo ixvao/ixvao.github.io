@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ixvao.github.io/Jfw/sitemap.Jfw.gz
